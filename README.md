@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/gsanchez1687/marketch/main/resources/img/logo.png)
+![Logo](https://raw.githubusercontent.com/gsanchez1687/marketch/main/public/img/logo.png?token=GHSAT0AAAAAAB7S7NRE6WE2BQSQZKASJKWGZAJJKYQ)
 
 ## MARKETCH
 
